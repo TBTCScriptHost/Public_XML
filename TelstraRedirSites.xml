@@ -1,0 +1,10 @@
+<site-list version="0.0.1">
+  <site url="https://*.telstra.com/*">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>  <site url="https://*.telstra.com.au/*">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+</site-list>
